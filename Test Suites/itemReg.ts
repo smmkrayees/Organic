@@ -4,7 +4,7 @@
    <name>itemReg</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-12-19T14:44:09</lastRun>
+   <lastRun>2018-12-19T20:37:30</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -16,6 +16,12 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/logIn</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8aa023b3-6d5a-43ae-8917-2a9414da7691</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ItemRegURL</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>d2dc4c28-5f7b-4727-98df-f1f7ae80bb0a</guid>

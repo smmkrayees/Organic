@@ -24,5 +24,3 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login Page/input_P
 
 WebUI.click(findTestObject('Object Repository/Page_Login Page/input_Password_submit'))
 
-WebUI.navigateToUrl('http://mie.zapto.org:8080/organic/modules/Item')
-
